@@ -1,0 +1,43 @@
+
+body,html{
+height:100%;
+font-family: 'Segoe UI', sans-serif;
+}
+
+.gradient-bg{
+background: linear-gradient(135deg,#667eea,#764ba2);
+display:flex;
+align-items:center;
+justify-content:center;
+}
+
+.center-card{
+width:100%;
+max-width:420px;
+}
+
+.form-card{
+border-radius:15px;
+background:white;
+}
+
+input.form-control{
+border-radius:10px;
+padding:12px;
+}
+
+button{
+border-radius:10px !important;
+padding:10px;
+font-weight:600;
+}
+
+h3{
+font-weight:700;
+}
+
+a{
+text-decoration:none;
+font-weight:600;
+color:#667eea;
+}
